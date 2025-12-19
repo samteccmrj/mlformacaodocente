@@ -56,7 +56,8 @@ A caracterização pedagógica e estatística desses perfis é apresentada e dis
 │   └── info.txt
 ├── LICENSE
 ├── README.md
-└── machine_learning_formacao_docente.ipynb
+├── machine_learning_formacao_docente.ipynb
+└── requirements.txt
 ```
 
 ## ▶️ Reproduzindo as Análises
