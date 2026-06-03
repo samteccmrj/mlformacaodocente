@@ -3,12 +3,11 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-# Aplicação de Machine Learning na Formação Docente para Sistemas Adaptativos com Apoio de IA Generativa
-## Um Estudo com Professores do Colégio Militar do Rio de Janeiro
-
+# Formação Docente para Elaboração de Sistemas Adaptativos: Um Estudo com Professores na Educação Básica
+## Um Estudo com Professores do [Anônimo]
 Este repositório reúne os artefatos de pesquisa, dados tratados e scripts de análise do estudo que investiga a aplicação de técnicas de **Machine Learning** no contexto da **formação docente**, com foco na preparação de professores para atuação com **sistemas adaptativos** e com apoio de **Inteligência Artificial Generativa**.
 
-O estudo foi conduzido a partir de um **workshop formativo** realizado com professores do **Colégio Militar do Rio de Janeiro (CMRJ)**, e tem como objetivo analisar perfis docentes, padrões de aprendizagem e percepções sobre o uso de IA na educação.
+O estudo foi conduzido a partir de um **workshop formativo** realizado com professores do **[anônimo]**, e tem como objetivo analisar perfis docentes, padrões de aprendizagem e percepções sobre o uso de IA na educação.
 
 ---
 
@@ -16,7 +15,7 @@ O estudo foi conduzido a partir de um **workshop formativo** realizado com profe
 
 - **Participantes:** 47 professores
 - **Contexto:** Workshop de formação docente 2025
-- **Instituição:** Colégio Militar do Rio de Janeiro (CMRJ)
+- **Instituição:** [anônimo]
 - **Abordagem:** Análise quantitativa com técnicas de aprendizado não supervisionado
 
 ---
